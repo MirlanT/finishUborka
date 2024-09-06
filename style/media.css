@@ -1,0 +1,21 @@
+@media screen and (max-width: 1400px) {
+    .infoBlock .infoBlock_p{
+        font-size: 10px;
+    }
+    .main_text{
+        font-size: 54px;
+    }
+    .elipse{
+        left: 80%;
+        top: 5%;
+    }
+}
+@media screen and (max-width: 560px) {
+    .infoBlock .infoBlock_p{
+        font-size: 7px;
+    }
+    .main_text{
+        font-size: 36px;
+    }
+
+}
